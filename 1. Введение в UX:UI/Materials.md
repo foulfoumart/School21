@@ -6,11 +6,11 @@ https://practicum.yandex.ru/blog/chto-takoe-ux-ui-dizayn
 Русский
 https://skillbox.ru/media/design/ux_ui_dizayn_chto_eto_takoe/?utm_source=chatgpt.com
 
-3.5 различий между UI и UX дизайном (UXGU.ru)
+3. 5 различий между UI и UX дизайном (UXGU.ru)
 Русский
 https://uxgu.ru/ux-vs-ui/
 
-4.UI vs UX Design: What's the Difference? (CareerFoundry)
+4. UI vs UX Design: What's the Difference? (CareerFoundry)
 Английский
 https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide
 
