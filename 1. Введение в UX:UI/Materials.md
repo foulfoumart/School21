@@ -27,11 +27,11 @@ https://bangbangeducation.ru/point/ux-ui-dizain/chto-takoe-hcd/
 Русский
 https://habr.com/ru/articles/258635/
 
-8.UX Research Cheat Sheet – NN/g
+8. UX Research Cheat Sheet – NN/g
 Английский
 https://www.nngroup.com/articles/ux-research-cheat-sheet
 
-9.UX-исследования: когда нужны, как проводить, методы … (BangBang Education)
+9. UX-исследования: когда нужны, как проводить, методы … (BangBang Education)
 Русский
 https://bangbangeducation.ru/point/ux-ui-dizain/ux-issledovaniya/?utm_source=chatgpt.com
 
