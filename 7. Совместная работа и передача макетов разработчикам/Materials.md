@@ -120,3 +120,6 @@ https://blog.stackblitz.com/posts/design-system-component-documentation
 
 11 примеров российских и зарубежных дизайн-систем на 2024 год: с исходниками в Figma и GitHub
 https://ux-journal.ru/design-systems.html
+
+3 амиго встреча
+https://habr.com/ru/companies/tbank/articles/449424/
