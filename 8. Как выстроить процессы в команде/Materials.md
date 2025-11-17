@@ -13,3 +13,6 @@ https://nakisa.com/blog/how-to-design-a-successful-agile-team-structure/?utm_sou
 
 Идеальный процесс работы» UX/UI Дизайнера
 https://habr.com/ru/articles/661313/
+
+Что такое DesignOps (Design Operations) и в чем ценность практики для бизнеса | Глава 1
+https://ux-journal.ru/introducing-designops.html
