@@ -4,7 +4,7 @@ https://practicum.yandex.ru/blog/chto-takoe-ux-ui-dizayn
 
 2. Обзор профессии
 Русский
-https://skillbox.ru/media/design/ux_ui_dizayn_chto_eto_takoe/?utm_source=chatgpt.com
+https://skillbox.ru/media/design/ux_ui_dizayn_chto_eto_takoe
 
 4. 5 различий между UI и UX дизайном (UXGU.ru)
 Русский
@@ -33,11 +33,11 @@ https://www.nngroup.com/articles/ux-research-cheat-sheet
 
 10. UX-исследования: когда нужны, как проводить, методы … (BangBang Education)
 Русский
-https://bangbangeducation.ru/point/ux-ui-dizain/ux-issledovaniya/?utm_source=chatgpt.com
+https://bangbangeducation.ru/point/ux-ui-dizain/ux-issledovaniya
 
 11. DIY. Гайд по методам продуктовых исследований – Sense23
 Русский
-https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya?utm_source=chatgpt.com
+https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya
 
 
 
