@@ -9,7 +9,7 @@ https://ux-journal.ru/design-remote-world.html
 https://vc.ru/id490729/561874-processy-v-produktovoi-dizain-komande-s-nulya
 
 How to design a successful Agile team structure
-https://nakisa.com/blog/how-to-design-a-successful-agile-team-structure/?utm_source=chatgpt.com
+https://nakisa.com/blog/how-to-design-a-successful-agile-team-structure
 
 Идеальный процесс работы» UX/UI Дизайнера
 https://habr.com/ru/articles/661313/
